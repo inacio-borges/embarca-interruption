@@ -1,6 +1,8 @@
-/*
-Display Numérico com Matriz de LEDs 5x5 e Controle via Botões
+# Display Numérico com Matriz de LEDs 5x5 e Controle via Botões
 
+Aluno: Inacio Oliveira Borges
+
+link para o video da execucao do projeto: [Projeto em execucao](https://www.youtube.com/watch?v=9hfwMPLom70)
 ## Descrição do Projeto
 
 Este projeto implementa um contador numérico interativo utilizando uma matriz de LEDs 5x5 WS2812 e um LED RGB comum, controlados por uma placa BitDogLab. A interação é feita através de dois botões que permitem incrementar ou decrementar o número exibido na matriz. Além disso, o LED vermelho do LED RGB pisca continuamente, proporcionando um efeito visual adicional.
