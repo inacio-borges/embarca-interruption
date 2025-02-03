@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/inaci/Desktop/EMBARCA/Tarefa_EMBARCATECH-Matriz_de_Led/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/inaci/Desktop/EMBARCA/Nova pasta/embarca-interruption/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

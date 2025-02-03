@@ -93,7 +93,7 @@ rule ASM_COMPILER__bs2_default_library_unscanned_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\inaci\.pico-sdk\cmake\v3.29.9\bin\cmake.exe --regenerate-during-build -SC:\Users\inaci\Desktop\EMBARCA\Tarefa_EMBARCATECH-interruption -BC:\Users\inaci\Desktop\EMBARCA\Tarefa_EMBARCATECH-interruption\build
+  command = C:\Users\inaci\.pico-sdk\cmake\v3.29.9\bin\cmake.exe --regenerate-during-build -S"C:\Users\inaci\Desktop\EMBARCA\Nova pasta\embarca-interruption" -B"C:\Users\inaci\Desktop\EMBARCA\Nova pasta\embarca-interruption\build"
   description = Re-running CMake...
   generator = 1
 

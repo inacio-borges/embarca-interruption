@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/inaci/Desktop/EMBARCA/Tarefa_EMBARCATECH-interruption/build/pico-sdk/tools/cmake_install.cmake")
+  include("C:/Users/inaci/Desktop/EMBARCA/Nova pasta/embarca-interruption/build/pico-sdk/tools/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/inaci/Desktop/EMBARCA/Tarefa_EMBARCATECH-interruption/build/pico-sdk/src/cmake_install.cmake")
+  include("C:/Users/inaci/Desktop/EMBARCA/Nova pasta/embarca-interruption/build/pico-sdk/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/inaci/Desktop/EMBARCA/Tarefa_EMBARCATECH-interruption/build/pico-sdk/docs/cmake_install.cmake")
+  include("C:/Users/inaci/Desktop/EMBARCA/Nova pasta/embarca-interruption/build/pico-sdk/docs/cmake_install.cmake")
 endif()
 
