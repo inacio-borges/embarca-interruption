@@ -80,6 +80,7 @@ double numero[10][25] = {
 // número de LEDs
 #define NUM_PIXELS 25
 
+
 // pino de saída
 #define OUT_PIN 7
 
